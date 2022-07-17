@@ -1,0 +1,22 @@
+npm install typescript ts-node express node @types/express @types/node nodemon @types/nodemon
+
+ npm install mongoose @types/mongoose
+ 
+ 
+  npm install body-parser @types/body-parser
+  
+   npm install express-validator
+   
+   npm i @types/nodemailer nodemailer nodemailer-sendgrid-transport --save
+   
+   
+==========================================
+
+	npx typescript --init
+
+    npm install  express yup config cros express mongoose pino-pretty dayjs bcrypt jsonwebtoken lodash nanoid
+	
+	npm install @types/body-parser @types/config  @types/cors @types/express @types/node @types/yup @types/yup @types/pino @types/mongoose @types/bcrypt @types/jsonwebtoken @types/lodash @types/nanoid ts-node typescript -D
+	
+	
+	npm  install  bcrypt codacy-coverage cookie-parser cors debug dotenv express  express-jwt express-validator jsonwebtoken mocha-lcov-reporter moment  mongoose morgan nodemailer --save
